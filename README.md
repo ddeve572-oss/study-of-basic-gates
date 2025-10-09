@@ -43,7 +43,8 @@ endmodule
 Thus the outputs of Basic Logic Gates are verified by simulating and synthesizing the VERILOG code.
 
 
-
+this is developed by : DEVENDRAN.G
+roll no : 25008564
 
 
 

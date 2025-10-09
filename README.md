@@ -31,6 +31,16 @@ module logicgates1(a, b, c);
 	assign c[6]= ~ a;
 
 endmodule
+**Logic symbol & Truthtable**
+
+![image ](https://github.com/user-attachments/assets/92c7ea18-597f-4c83-936d-c52e162274e0)
+
+**RTL realization Output:** 
+![image ](https://github.com/user-attachments/assets/11f6f1a2-15f8-4a08-8a69-14151d8819bb)
+
+**RTL**
+**Result:**
+Thus the outputs of Basic Logic Gates are verified by simulating and synthesizing the VERILOG code.
 
 
 
